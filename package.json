@@ -1,0 +1,26 @@
+{
+  "name": "learn-pixi",
+  "version": "1.0.0",
+  "description": "learning Pixi rendering engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComradV/learn-pixi.git"
+  },
+  "keywords": [
+    "pixi"
+  ],
+  "author": "Gleb Vasiliev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ComradV/learn-pixi/issues"
+  },
+  "homepage": "https://github.com/ComradV/learn-pixi#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
